@@ -1,3 +1,6 @@
+#TESTING DEPLOYMENT WITH VUE-CLI TO GITHUB PAGES 
+
+
 # vue-deploy
 
 ## Project setup
